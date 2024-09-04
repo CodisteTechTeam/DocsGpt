@@ -1,0 +1,15 @@
+chromadb
+docx2txt
+Flask==3.0.3
+Flask-Cors==4.0.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-openai==0.1.4
+openai>=1.1.1
+pymongo==4.6.3
+pypdf
+python-dotenv==1.0.1
+requests==2.31.0
+termcolor==2.4.0
+tiktoken==0.6.0
+flask-restx
